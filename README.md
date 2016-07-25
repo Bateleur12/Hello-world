@@ -1,2 +1,4 @@
 # Hello-world
-Firts try of github
+First try of github
+
+Karl Eschberger trying out Github
